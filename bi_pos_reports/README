@@ -1,0 +1,30 @@
+
+Version 12.0.0.1 :  (13-11-19)
+		- Add xml receipt code for direct print.
+
+Version 12.0.0.2 :  (08-01-19)
+		- Solve issue of posted order printing.
+
+Version 12.0.0.3 :  (04-03-20)
+		- Add more pos reports such as Pos Payment[.pfd and .xls],Pos Profit Loss,Top Selling Customer/Products and Categories.
+
+Version 12.0.1.3 :  (26/03/20)
+		- Remove unwanted code.
+		- Add precision and adjust layout in some reports.
+		- Add _description in objects.
+		- Update security file.
+
+Version 12.0.1.4 :  (01/06/20)
+		- Solve issue while printing "Sale Summary","Outgoing","Posted Session","Top selling"reports when no pos order is there.
+		- fixes in "Pos Payment" xls report 
+
+Version 12.0.1.5 :  (02/06/20)	
+		- Add data tag in xml files which don't have.
+		- Change calculation for taxes and discounts.
+		- Remove Unwanted code.
+		- Add decimal precision in reports.
+
+Version 12.0.1.6 :  (28/09/20)	
+		- solved the issue of timezone.
+
+=> 12.0.1.7 : Improved an index in that add installation guide.
